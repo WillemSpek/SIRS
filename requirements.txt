@@ -1,3 +1,4 @@
 Flask==2.2.2
-Flask-PyMongo==2.3.0
+pymongo==4.3.3
+dotenv==0.0.5
 mongoengine==0.24.2
